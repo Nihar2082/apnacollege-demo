@@ -1,4 +1,4 @@
 # apnacollege-demo
 This is my first Repository 
 <br>
-Author: Nihar Patel
+Author: Nihar Chandrakantbhai Patel
